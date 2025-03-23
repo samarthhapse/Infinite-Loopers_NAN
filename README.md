@@ -2,7 +2,7 @@
 SIH'23 Final project- Blockchain Visualizer
 
 # Problem Statement
-De-anonymization for monitoring and tracking of illegal activities performed using cryptocurrency transaction technology.
+De-anonymization for monitoring and tracking of illegal activities performed using cryptocurrency transaction technology
 
 # Structure
 This is a tool which can help us know the person behind the wallet address.
