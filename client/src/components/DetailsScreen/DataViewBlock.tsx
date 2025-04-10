@@ -2,11 +2,13 @@ import { useState } from "react";
 
 export function DataViewBlock({
     title,
+    // subtitle,
     value,
     showBorder = false,
     helperText,
   }: {
     title: string;
+    // subtitle: string;
     value: string;
     showBorder?: boolean;
     helperText?: string;
